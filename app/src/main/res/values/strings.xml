@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Doggs</string>
+    <string name="action_settings">Eliminar favoritos</string>
+    <string name="Toast">Favoritos Eliminados</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Elije una Raza</string>
+    <string name="second_fragment_label">Selecciona tu Favorito</string>
+    <string name="esFav">Es fav</string>
+    <string name="NoesFav">Ya no es fav</string>
+
+</resources>
